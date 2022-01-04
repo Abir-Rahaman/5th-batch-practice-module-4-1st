@@ -1,0 +1,104 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+#top-banner{
+    background-image: url(/image/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.half-width img{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+p{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.btn{
+    text-decoration: none;
+    color: wheat;
+    font-weight: 700;
+    border: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(green,red);
+    border-radius: 5px;  
+}
+#dream-big{
+    display: flex;
+    margin-top: 5%;
+    background-image: url(/image/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+#Experience-area{
+    background-image: url(/image/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.full-expreience-area{
+    display: flex;
+    border-radius: 20px;   
+}
+.left-side-expreience{
+    width: 35%;
+    margin-left: 50px;
+    border-left: 7px solid ;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
+    box-shadow: 20px 5px 60px gray;
+    border-radius: 5px;
+    margin-right: 150px;  
+}
+.right-side-expreience{
+    width: 30%;
+    margin-left: 40px;
+    border-left: 7px solid ;
+    border-image: linear-gradient(green,black);
+    border-image-slice: 1;
+    box-shadow: 20px 5px 60px gray;
+    border-radius: 5px; 
+    padding-left: 20px; 
+    padding-right: 50px;
+    
+}
+.left-side-expreience p{
+    font-size: 10px;
+}
+.left-side-expreience h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+
+}
+.right-side-expreience p{
+    font-size: 10px;
+}
+.right-side-expreience h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+
+}
+footer{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.orange{
+    color: orangered;
+}
