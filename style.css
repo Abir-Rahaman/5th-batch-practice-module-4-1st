@@ -5,7 +5,7 @@
     font-family: 'Ubuntu', sans-serif;
 }
 #top-banner{
-    background-image: url(/image/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
     display: flex;
 }
@@ -39,12 +39,12 @@ p{
 #dream-big{
     display: flex;
     margin-top: 5%;
-    background-image: url(/image/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
 }
 #Experience-area{
-    background-image: url(/image/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-position: left;
     background-repeat: no-repeat;
 }
